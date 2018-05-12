@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7823
     wikipedia: http://de.wikipedia.org/wiki/Elisabeth_B%C3%BCrstenbinder
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35251#Under-a-Charm-A-Novel-Vol.-I
 gutenberg_issued: '2011-02-12'
 gutenberg_type: Text
 identifiers:
